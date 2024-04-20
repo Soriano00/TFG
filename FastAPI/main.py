@@ -38,7 +38,7 @@ async def upload(db: db_dependency, file: UploadFile = File(...)):
     else:
         df = pd.read_csv(file.file)
     
-    df.to_sql('Repeticion', engine, if_exists='replace', index=False)
+    df.to_sql('Repeticion', engine, if_exists='append', index=False)
     db.commit()
 
 
@@ -46,6 +46,6 @@ async def upload(db: db_dependency, file: UploadFile = File(...)):
 @app.post("/Serie/")
 async def upload(db: db_dependency, file: UploadFile = File(...)):
     df = pd.read_csv(file.file)
-    df.to_sql('Serie', engine, if_exists='replace', index=False)
+    df.to_sql('Serie', engine, if_exists='append', index=False)
     db.commit()
 
