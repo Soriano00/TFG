@@ -66,15 +66,592 @@ INSERT INTO Ejercicios (NombreEjercicio, Id_Modo, Informes)
     VALUES ('INC_BC_2', 1, '');
 
 
+/******Inserciones para los datos guardados en drive*********/
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Adducción', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Extensión', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Flexión', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación externa', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación interna', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Adducción', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Flexión', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación externa', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación interna', 5, '', 'Unilateral', 'Si');
+
+
+/***************************************************************************/
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Abducción', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Adducción', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Extensión', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Flexión', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación externa', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación interna', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Abducción', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Adducción', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Extensión', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Flexión', 5, '', 'Unilateral', 'Si');
+    
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación externa', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación interna', 5, '', 'Unilateral', 'Si');
+
+
+/***************************************************************************/    
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Abducción', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Adducción', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Extensión', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Flexión', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación externa', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación interna', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Abducción', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Adducción', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Extensión', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Flexión', 5, '', 'Unilateral', 'Si');
+    
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación externa', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación interna', 5, '', 'Unilateral', 'Si');
+
+/***************************************************************************/
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Abducción', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Abducción', 2, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Adducción', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Adducción', 2, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Extensión', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Extensión', 2, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Flexión', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Flexión', 2, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación externa', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación externa', 2, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación interna', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación interna', 2, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Abducción', 5, '', 'Unilateral', 'Si');
+
+ INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Abducción', 5, '', 'Unilateral', 'No');   
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Adducción', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Adducción', 5, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Extensión', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Extensión', 5, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Flexión', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Flexión', 5, '', 'Unilateral', 'No');
+    
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación externa', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación externa', 5, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación interna', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación interna', 5, '', 'Unilateral', 'No');
+
+/***************************************************************************/
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Abducción', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Adducción', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Extensión', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Flexión', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación externa', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación interna', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Abducción', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Adducción', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Extensión', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Flexión', 5, '', 'Unilateral', 'Si');
+    
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación externa', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación interna', 5, '', 'Unilateral', 'Si');
+
+/***************************************************************************/
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Abducción', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Abducción', 2, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Adducción', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Adducción', 2, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Extensión', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Extensión', 2, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Flexión', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Flexión', 2, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación externa', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación externa', 2, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación interna', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación interna', 2, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Abducción', 5, '', 'Unilateral', 'Si');
+
+ INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Abducción', 5, '', 'Unilateral', 'No');   
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Adducción', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Adducción', 5, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Extensión', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Extensión', 5, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Flexión', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Flexión', 5, '', 'Unilateral', 'No');
+    
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación externa', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación externa', 5, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación interna', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación interna', 5, '', 'Unilateral', 'No');
+
+
+/***************************************************************************/
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Abducción', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Abducción', 2, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Adducción', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Adducción', 2, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Extensión', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Extensión', 2, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Flexión', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Flexión', 2, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación externa', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación externa', 2, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación interna', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación interna', 2, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Abducción', 5, '', 'Unilateral', 'Si');
+
+ INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Abducción', 5, '', 'Unilateral', 'No');   
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Adducción', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Adducción', 5, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Extensión', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Extensión', 5, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Flexión', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Flexión', 5, '', 'Unilateral', 'No');
+    
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación externa', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación externa', 5, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación interna', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación interna', 5, '', 'Unilateral', 'No');
+
+
+/***************************************************************************/
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Abducción', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Abducción', 2, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Adducción', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Adducción', 2, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Extensión', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Extensión', 2, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Flexión', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Flexión', 2, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación externa', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación externa', 2, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación interna', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación interna', 2, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Abducción', 5, '', 'Unilateral', 'Si');
+
+ INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Abducción', 5, '', 'Unilateral', 'No');   
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Adducción', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Adducción', 5, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Extensión', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Extensión', 5, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Flexión', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Flexión', 5, '', 'Unilateral', 'No');
+    
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación externa', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación externa', 5, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación interna', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación interna', 5, '', 'Unilateral', 'No');
+
+
+/********************************   10  *******************************************/
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Abducción', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Abducción', 2, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Adducción', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Adducción', 2, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Extensión', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Extensión', 2, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Flexión', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Flexión', 2, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación externa', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación externa', 2, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación interna', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación interna', 2, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Abducción', 5, '', 'Unilateral', 'Si');
+
+ INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Abducción', 5, '', 'Unilateral', 'No');   
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Adducción', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Adducción', 5, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Extensión', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Extensión', 5, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Flexión', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Flexión', 5, '', 'Unilateral', 'No');
+    
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación externa', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación externa', 5, '', 'Unilateral', 'No');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación interna', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación interna', 5, '', 'Unilateral', 'No');
+
+
+/********************************    11     *******************************************/
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Abducción', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Adducción', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Extensión', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Flexión', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación externa', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación interna', 2, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Abducción', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Adducción', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Extensión', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación externa', 5, '', 'Unilateral', 'Si');
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Rotación interna', 5, '', 'Unilateral', 'Si');
 
 
 
+
+/***** Inserciones en la tabla Implica*****/
 INSERT INTO Implica (Id_ejercicio, Id_musculo)
     VALUES (1, 1);
 
+INSERT INTO Implica (Id_ejercicio, Id_musculo)
+    VALUES (3, 1);
 
+
+INSERT INTO Implica (Id_ejercicio, Id_musculo)
+    VALUES (4, 1);
+
+
+INSERT INTO Implica (Id_ejercicio, Id_musculo)
+    VALUES (5, 1);
+
+
+INSERT INTO Implica (Id_ejercicio, Id_musculo)
+    VALUES (6, 1);
+
+
+/***** Inserciones en la tabla Realiza*****/
 INSERT INTO UsuarioRealizaEjercicio (Fecha_Hora, Id_ejercicio, Id_usuario, Lateralidad)
     VALUES (CURRENT_TIMESTAMP,1, 1, 'Unilateral');
+
+INSERT INTO UsuarioRealizaEjercicio (Fecha_Hora, Id_ejercicio, Id_usuario, Lateralidad)
+    VALUES (CURRENT_TIMESTAMP,3, 2, 'Bilateral');
+
+INSERT INTO UsuarioRealizaEjercicio (Fecha_Hora, Id_ejercicio, Id_usuario, Lateralidad)
+    VALUES (CURRENT_TIMESTAMP,4, 3, 'Bilateral');
+
+INSERT INTO UsuarioRealizaEjercicio (Fecha_Hora, Id_ejercicio, Id_usuario, Lateralidad)
+    VALUES (CURRENT_TIMESTAMP,5, 4, 'Unilateral');
+
+INSERT INTO UsuarioRealizaEjercicio (Fecha_Hora, Id_ejercicio, Id_usuario, Lateralidad)
+    VALUES (CURRENT_TIMESTAMP,6, 5, 'Bilateral');
+
 
 INSERT INTO Serie (Num_Serie, Id_ejercicio, TiempoSerie, Fuerza_Pico, Fuerza_Media, Potencia_Max, Impulso, T_Pico, FIM,MediaFEM, MediaFdM)
     VALUES (1, 1, 29.86, 235.2, 132.8, 2263, 3964.5, 2.15, 0.0, 0.0, 0.0);

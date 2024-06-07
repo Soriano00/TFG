@@ -1,0 +1,2 @@
+Id_Ejercicio,Tipo de ejercicio,Series,Tiempo de recuperación (s),Repeticiones,Recorrido (cm),Incremento interserie (cm/s),Incremento interrepetición (cm/s),Velocidad inicial en fase concéntrica (cm/s),Velocidad final en fase concéntrica (cm/s),Velocidad inicial en fase excéntrica (cm/s),Velocidad final en fase excéntrica (cm/s),Objetivo mínimo de fuerza (Kg),Objetivo máximo de fuerza (Kg)
+165,Cinético,1,0,5,49,0,0,80,80,80,80,0,120
