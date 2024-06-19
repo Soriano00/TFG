@@ -99,7 +99,7 @@ async def upload(db: db_dependency, file: UploadFile = File(...)):
     db.commit()
 
 
-@app.post("/Serie2/")
+@app.post("/Serie Cin Excel/")
 async def upload(db: db_dependency, file: UploadFile = File(...)):
     df = pd.read_csv(file.file)
     
@@ -114,6 +114,19 @@ async def upload(db: db_dependency, file: UploadFile = File(...)):
     df.to_sql('Serie', engine, if_exists='append', index=False)
     db.commit()
 
+
+@app.post("/Serie Iso Excel/")
+async def upload(db: db_dependency, file: UploadFile = File(...)):
+    df = pd.read_csv(file.file)
+    
+    # Renombrar las columnas del DataFrame para que coincidan con las columnas de la tabla SQL
+    df.columns = [
+        'Id_Ejercicio','Tipo_Ejercicio', 'Num_Serie', 'Tiempo_Recuperacion', 'Duracion',
+          'Objetivo_min_Fuerza', 'Objetivo_max_Fuerza'
+        ]
+
+    df.to_sql('Serie', engine, if_exists='append', index=False)
+    db.commit()
 
 
 @app.post("/Usuarios/")
