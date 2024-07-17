@@ -2488,6 +2488,10 @@ INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante
 
 
 
+/********************************  55  *******************************************/
+
+INSERT into Ejercicios(NombreEjercicio,Id_Modo, Informes, Lateralidad, Dominante)
+    VALUES ('Extensión', 2, '', 'Unilateral', 'Si');
 
 
 
