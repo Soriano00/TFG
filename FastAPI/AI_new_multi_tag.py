@@ -61,9 +61,8 @@ X = scaler.fit_transform(X)
 
 # Dividir el conjunto de datos en entrenamiento y prueba
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-
 #kf = KFold(n_splits=5, shuffle=True, random_state=68)
-
+import ipdb; ipdb.set_trace();
 # Entrenar el modelo
 model = RandomForestClassifier(n_estimators=100, random_state=42)
 multi_target_classifier = MultiOutputClassifier(model, n_jobs=-1)
@@ -85,8 +84,13 @@ y_pred = multi_target_classifier.predict(X_test)
 
 #print("Accuracy:", accuracy_score)
 # Evaluar el modelo
-print(classification_report(y_test, y_pred))
-import ipdb; ipdb.set_trace();
+n_outputs = y_test.shape[1]
+ 
+for i in range(n_outputs):
+    print(f"Output {i+1}:")
+    print(classification_report(y_test[:, i], y_pred[:, i]))
+
+
 
 # Calcular el accuracy
 accuracy = accuracy_score(y_test, y_pred)
