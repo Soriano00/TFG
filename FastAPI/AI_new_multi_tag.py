@@ -13,15 +13,9 @@ from sklearn.model_selection import cross_val_score, KFold
 
 
 
+
 # Conectar a la base de datos MySQL
-username = 'roberto'
-password = '31101985Rya#'
-host = 'localhost'
-port = 3306
-database = 'MyTrainer'
-
-
-engine = sqlalchemy.create_engine('mysql+pymysql://roberto:31101985Rya#@localhost:3306/MyTrainer')
+engine = sqlalchemy.create_engine('mysql+pymysql://root:8963alex@localhost:3306/PRUEBA')
 query_ejercicios   = "SELECT * FROM Ejercicios"
 query_repeticiones = "SELECT * FROM Repeticion"
 
@@ -112,7 +106,7 @@ print(f"Accuracy: {accuracy:.2f}")
 
 
 # Cargar los nuevos datos
-nuevos_datos = pd.read_csv('../SQL/018/018_Cin_Abd_No_Reps.csv')
+nuevos_datos = pd.read_csv('../SQL/055/055_Cin_Add_Dom_Reps.csv')
 
 # Renombrar las columnas del CSV para que coincidan con las utilizadas en el modelo
 nuevos_datos.columns = ['Id_ejercicio', 'Num_Serie', 'Num_repeticion', 'Fase', 'Tiempo', 'Posicion', 'Fuerza', 'Velocidad', 'Trig', 'Nota']
