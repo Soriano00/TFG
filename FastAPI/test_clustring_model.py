@@ -100,7 +100,8 @@ dominante_target_names = [str(cls) for cls in le_dominante.classes_]
 print(classification_report(y_test['Dominante'], y_pred[:, 2], target_names=dominante_target_names))
 
 # Cargar los nuevos datos
-nuevos_datos = pd.read_csv('../SQL/005/005_Cin_Abd_Dom_Reps.csv')
+nuevos_datos = pd.read_csv('/home/alex/TFG/SQL/001001_Cin_Abd_Dom_Reps.csv')
+
 
 # Renombrar las columnas del CSV para que coincidan con las utilizadas en el modelo
 nuevos_datos.columns = ['Id_ejercicio', 'Num_Serie', 'Num_repeticion', 'Fase', 'Tiempo', 'Posicion', 'Fuerza', 'Velocidad', 'Trig', 'Nota']
